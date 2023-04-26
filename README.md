@@ -1,5 +1,5 @@
-### Hi Olá, seja Bem Vindo! 
- ## Me chamo Vinícius Luiz 👋
+ ## Olá, seja Bem-Vindo ao meu GitHub! 
+ # Me chamo Vinícius Luiz 👋
 
 - 🔭 Sou Estudante de Desenvolvimento, Apaixonado por Tecnologia
 - 🌱 Atualmente faço Cuso Técnico no Senac e Cursos da Udemy
