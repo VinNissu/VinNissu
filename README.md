@@ -10,11 +10,8 @@
 <br>
 
 
-![VinNissu GitHub stats](https://github-readme-stats.vercel.app/api?username=VinNissu&show_icons=true&theme=dracula)
-<br>
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinNissu&langs_count=8)](https://github.com/VinNissu/github-readme-stats)
+![VinNissu GitHub stats](https://github-readme-stats.vercel.app/api?username=VinNissu&show_icons=true&theme=dracula) &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # Tecnologias sendo estudadas por mim 
 
