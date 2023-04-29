@@ -58,6 +58,23 @@
 <br/>
 
 
+
+
+# <li>Languages</li>
+  <li>
+    Portuguese ( NATIVE )
+  </li>
+
+  <li>
+    English ( BASIC )
+  </li>
+
+
+
+<br/>
+<br/>
+<br/>
+
 # <li>Contatos</li>
 
 <ul>
