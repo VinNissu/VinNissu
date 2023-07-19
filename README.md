@@ -1,7 +1,7 @@
  # Olá, seja Bem-Vindo ao meu GitHub! 
  ## Me chamo Vinícius Luiz !👋
 
-- 🔭 Sou Estudante de desenvolvimento,apaixonado por Tecnologia e jogos eletrônicos
+- 🔭 Sou Estudante de desenvolvimento, apaixonado por Tecnologia e jogos eletrônicos
 - 🌱 Atualmente faço Curso Técnico no SENAC e outros cursos online
 
 
